@@ -1,0 +1,34 @@
+[2019-03-11:11:37:52] Nama Admin : saiful => Edit Hutang => 17 => Sukses 
+
+[2023-06-07:16:22:16] Nama Admin : Kiki => Edit Pemasukan => 1 => Sukses Edit
+
+[2023-06-07:16:22:33] Nama Admin : Kiki => Edit Pemasukan => 1 => Sukses Edit
+
+[2023-06-07:16:22:49] Nama Admin : Kiki => Edit Pemasukan => 1 => Sukses Edit
+
+[2023-06-07:16:22:58] Nama Admin : Kiki => Edit Pemasukan => 29 => Sukses Edit
+
+[2023-06-07:18:36:18] Nama Admin : Kiki => Edit Pemasukan => 33 => Sukses Edit
+
+[2023-06-07:18:37:18] Nama Admin : Kiki => Edit Pemasukan => 33 => Sukses Edit
+
+[2023-06-07:18:38:17] Nama Admin : Kiki => Edit Pemasukan => 33 => Sukses Edit
+
+[2023-06-07:18:49:01] Nama Admin : Kiki => Edit Pemasukan => 32 => Sukses Edit
+
+[2023-07-07:17:50:37] Nama Admin : Kiki => Edit Pemasukan => 35 => Sukses Edit
+
+[2023-07-07:17:57:08] Nama Admin: Kiki => Edit Pemasukan => 35 => Sukses Edit
+
+[2023-07-07:17:58:15] Nama Admin: Kiki => Edit Pemasukan => 4 => Sukses Edit
+
+[2023-07-07:17:58:47] Nama Admin: Kiki => Edit Pemasukan => 5 => Sukses Edit
+
+[2023-07-07:17:59:22] Nama Admin: Kiki => Edit Pemasukan => 6 => Sukses Edit
+
+[2023-07-07:18:00:26] Nama Admin: Kiki => Edit Pemasukan => 7 => Sukses Edit
+
+[2023-07-07:18:00:47] Nama Admin: Kiki => Edit Pemasukan => 8 => Sukses Edit
+
+[2023-07-07:18:01:22] Nama Admin: Kiki => Edit Pemasukan => 9 => Sukses Edit
+

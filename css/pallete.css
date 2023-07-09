@@ -1,0 +1,10 @@
+:root {
+	--color-black: #11142d !important;
+	--color-white: #fff !important;
+	--color-primary: #4E73DF !important;
+	--color-primary-darker: #4E73DF!important;
+	--color-secondary: #3c4a4f !important;
+	--color-secondary-darker: #918b76 !important;
+	--color-secondary-lighter: #e4e4e4 !important;
+	--color-gradient: radial-gradient(103.03% 103.03% at 0% 0%, #4E73DF 0%, #4E73DF 100%);
+}
